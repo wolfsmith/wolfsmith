@@ -19,6 +19,7 @@ This tool was built with that exact idea in mind:
 
 Whether you’re checking the weather abroad, adjusting oven recipes, or working on a science project,  
 this converter is designed to be the fastest, cleanest tool you’ll use today.
+<img width="1154" height="917" alt="image" src="https://github.com/user-attachments/assets/21d3dd58-9f30-417c-9879-e814987a61f4" />
 
 ---
 
@@ -30,6 +31,8 @@ When focus is everything, the tool should disappear into the background. **Focus
 - **Zero Barriers:** Start a session instantly, no account needed.  
 
 Perfect for deep work, study sessions, or any task that needs your full attention.
+<img width="1133" height="908" alt="image" src="https://github.com/user-attachments/assets/f2941386-41ce-4b4f-a08c-8d41209a2d11" />
+
 
 ---
 
