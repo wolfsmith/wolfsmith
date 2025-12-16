@@ -51,6 +51,8 @@ This tool was built for that exact gap. It lets you convert Markdown into a prop
 
 It’s not meant to replace powerful tools like Pandoc —
 it’s a **simple, reliable fallback** when you just need a clean Word file, quickly.
+<img width="2560" height="1229" alt="Snipaste_2025-12-15_15-14-29" src="https://github.com/user-attachments/assets/a855ab86-cbf6-4a1f-a730-c8e5eaa3e34c" />
+
 
 ---
 
