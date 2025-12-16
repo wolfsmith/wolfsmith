@@ -36,6 +36,24 @@ Perfect for deep work, study sessions, or any task that needs your full attentio
 
 ---
 
+### 📝 [Markdown → Word Converter](https://www.markdown-to-word.online/)
+
+Markdown is perfect for writing — clean, fast, and distraction-free.
+But sharing those documents with others often means one thing: **Word files**.
+
+This tool was built for that exact gap. It lets you convert Markdown into a properly structured `.docx` file **without installing anything**, configuring Pandoc, or dealing with editor plugins.
+
+- **Paste & Convert:** Paste Markdown directly and download a ready-to-share Word document.
+- **Structure Preserved:** Headings, lists, tables, code blocks, and basic formatting stay intact.
+- **Zero Setup:** No accounts, no uploads, no local dependencies.
+- **Fast & Lightweight:** Conversion happens instantly in the browser.
+- **Practical by Design:** Ideal for sharing docs with teammates, clients, or anyone not using Markdown.
+
+It’s not meant to replace powerful tools like Pandoc —
+it’s a **simple, reliable fallback** when you just need a clean Word file, quickly.
+
+---
+
 ## 📌 My Development Principles
 - **User-first:** Every tool is designed to solve a real problem without adding complexity.  
 - **Performance-focused:** Fast load times, minimal resources, and smooth user experience.  
